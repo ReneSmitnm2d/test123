@@ -10,6 +10,3 @@ function get-name {
   }
   get-name # < results in $a= rene
   get-name -a piet # < results in $a=piet
-  
-  
-  
